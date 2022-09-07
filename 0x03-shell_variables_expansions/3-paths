@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /home/daygeek/test
+find . -type d | wc -l
